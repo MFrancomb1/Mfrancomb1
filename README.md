@@ -20,12 +20,13 @@ My name is Michael Francomb, I am a senior student at the University of Saint Th
 
 ---
 
-### Languages and Tech:
+### Languages and Tech
 
-Over the course of my study at St. Thomas, I have used a good variety of programming languages and technologies, including
+Over the course of my study at St. Thomas, I have used a variety of programming languages and technologies, including:
 
 <div id="languages">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -41,6 +42,18 @@ Over the course of my study at St. Thomas, I have used a good variety of program
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### University of St. Thomas Reflection :
+
+My time at university has been an interesting one. Leaving my job of almost ten years to return to school and learn something completely new was way outside of my comfort zone, and the fact that I made this major decision in the height of the Covid-19 pandemic added to the surrealness of this endeavor. 
+
+- <a href="https://github.com/MFrancomb1/Project2-DynamicServer">World Greenhouse Gas Emissions</a>:
+  * In Web Development we participated in a group project to create a dynamic web server using Node.js that explored some element of sustainability. Together with my group partners Cole and Kevin, we decided to research golbal greenhouse gas emissions using a dataset provided by <a href="www.climatewatchdata.org">Climate Watch</a>. Our applicationbroke down the greenhouse gas emissions of each country by sector and year. Using the AnyChart JavaScript library we visualized the dense dataset in order to analyse the results.
+- other project
+- In addition to my work in the field of computer science, I also completed several courses of study in art history. In these courses I developed my ability to write clearly and consicely towards a variety of audiences outside of my usual field. As is the case with studies in the humanities, these courses required deep though and thought provoking discussions regarding our values as students and the reflection of the pricnicples of the University of St. Thomas. My study in this field includes forwarding the mission of St. Thomas, "to advance the common good." Toward this, I contributed towards acessioning and providing data in several growing databases. In ARTH250 - Museum Studies, I contributed towards the database of <a href="https://romancoins.omeka.net/">Greco-Roman Coins</a> developed by students and faculty. In ARTH202 - History of Street art, I worked to prvide pieces of art relating to the Black Lives Matter movement for the <a href="https://m2m.omeka.net/">Monumnets 2 Movements</a> growing database of art.
+
 
   
 
