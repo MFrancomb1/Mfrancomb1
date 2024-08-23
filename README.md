@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Michael Francomb, welcome to my GitHub Profile!
+### Hi there 👋 I'm Michael, welcome to my GitHub Profile!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzczODVkYTJhMzJiODkwMTRiOGQxZWQ1ZmM0NzM3N2I0YjU2ZjZjNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/UvPvsX9oMlMWs/giphy.gif" width="100">
